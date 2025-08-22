@@ -55,6 +55,8 @@ h2#question {
     cursor: pointer;
     transition: background-color 0.3s, transform 0.2s;
     font-size: 1em;
+    /* Cambio principal: Mejorar el contraste */
+    color: #000000;
 }
 
 .option-btn:hover:not(.correct):not(.incorrect) {
